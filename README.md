@@ -5,7 +5,7 @@
 - 🔭 I'm currently working with Angular
 - 🌱 I’m learning stuff related to front-end & web development in general
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 You can reach me at ristespasov@hotmail.com or https://www.linkedin.com/in/riste-spasov-3a24b717b/
+- 📫 You can reach me at ristespasov@hotmail.com 
 
 <!---
 ristespasov/ristespasov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
